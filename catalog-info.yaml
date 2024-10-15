@@ -4,6 +4,7 @@ metadata:
   name: "localdocstemplate"
   description: An example template
   annotations:
+    github.com/project-slug: UdayKunta/localdocstemplate
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
